@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HeroTasks/static/css/main.36aa9c68.css",
+    "main.js": "/HeroTasks/static/js/main.e857b15c.js",
+    "static/js/453.3168d56b.chunk.js": "/HeroTasks/static/js/453.3168d56b.chunk.js",
+    "service-worker.js": "/HeroTasks/service-worker.js",
+    "index.html": "/HeroTasks/index.html",
+    "main.36aa9c68.css.map": "/HeroTasks/static/css/main.36aa9c68.css.map",
+    "main.e857b15c.js.map": "/HeroTasks/static/js/main.e857b15c.js.map",
+    "453.3168d56b.chunk.js.map": "/HeroTasks/static/js/453.3168d56b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36aa9c68.css",
+    "static/js/main.e857b15c.js"
+  ]
+}
